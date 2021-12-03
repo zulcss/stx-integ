@@ -1,0 +1,13 @@
+Source: stx-integ
+Section: admin
+Priority: optional
+Maintainer: Chuck Short	 <charles.short@windriver.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+
+Package: stx-integ
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Stx integ helpers
+  Stx integration helper scripts and setup.

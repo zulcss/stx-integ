@@ -1,0 +1,5 @@
+stx-integ (0.0.1-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- chuck <charles.short@windriver.com>  Fri, 03 Dec 2021 13:11:27 -0500
